@@ -56,3 +56,9 @@ flake8/
 *.swp
 *.swo
 .DS_Store
+
+myenv/
+.Include/
+.Lib/
+.Scripts/
+.pyvenv.cfg
